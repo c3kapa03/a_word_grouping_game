@@ -1,6 +1,6 @@
-# Word grouping game
-
 #### Rules for the game
+<br>
+
 ```
 There are 15 words, to which you have to find a common factor. There are five groups for the words.
 ```
@@ -12,6 +12,8 @@ There are 15 words, to which you have to find a common factor. There are five gr
 
 Example.
 
+<br>
+
 | basketball       | =        |
 | -----------------|:-------------:| 
 | bird, butterfly  | = can fly| 
@@ -20,8 +22,15 @@ Example.
 | white, blue, orange, brown, red | = colors| 
 
 
+<br>
+<br>
+<br>
+
 
 ## Game
+
+<br>
+
 Words:
 >cloud 
 
@@ -33,14 +42,26 @@ Words:
 
 >grass, jade, paper, heart, frog
 
+<br>
+
 *Good luck!*
+
+<br>
+
+<br>
+
 
 ---
 #### Hints
 * Hint 1: The group of five includes word: "pea".
 * Hint 2: The group of four includes word: "milk".
 * Hint 3: The group of three includes word: "sky".
----
 
+<br>
+<br>
+<br>
+<br>
+
+---
 #### Solution to word grouping game
 ~~Think their colors~~
