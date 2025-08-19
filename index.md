@@ -1,4 +1,6 @@
-#### Rules for the game 
+<br>
+
+#### 	⭐ Rules for the game 	⭐
 
 <br>
 
@@ -26,7 +28,7 @@ See an example of the word grouping game.
 <br>
 <br>
 
-## Game
+##	⭐ Game ⭐
 
 
 Words:
@@ -46,21 +48,18 @@ Words:
 <br>
 
 
-#### Hints
+#### 💡 Hints 💡 
 * Hint 1: The group of five includes word: "pea".
 * Hint 2: The group of four includes word: "milk".
 * Hint 3: The group of three includes word: "sky".
 
-
-
 ---
-#### 
-
-
 
 <details>
 <summary>Solution to word grouping game</summary>
 
 ~~Think their colors~~
+
+🟡 🔴 🔵 ⚪ 🟢 
 
 </details>
