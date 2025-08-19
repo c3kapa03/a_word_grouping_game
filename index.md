@@ -1,4 +1,10 @@
-#### Rules for the game
+#### Rules for the game 
+
+:star:
+
+:ringed_planet:
+
+
 <br>
 
 ```
@@ -49,6 +55,10 @@ Words:
 <br>
 
 <br>
+
+
+> [!TIP]
+> eevfef
 
 
 ---
