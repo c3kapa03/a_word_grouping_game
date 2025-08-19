@@ -11,8 +11,9 @@ There are 15 words, to which you have to find a common factor. There are five gr
 4. A group four have four words.
 5. A group five have five words. 
 
-<details>
-<summary>See an example of the word grouping game.</summary>
+<br>
+
+See an example of the word grouping game.
 
 | basketball       | =        |
 | -----------------|-------------| 
@@ -21,7 +22,6 @@ There are 15 words, to which you have to find a common factor. There are five gr
 | horse, cow, rabbit, lamb | = animals| 
 | white, blue, orange, brown, red | = colors| 
 
-</details>
 
 <br>
 <br>
@@ -45,18 +45,22 @@ Words:
 <br>
 <br>
 
-<details>
-<summary>Hints</summary>
 
+#### Hints
 * Hint 1: The group of five includes word: "pea".
 * Hint 2: The group of four includes word: "milk".
 * Hint 3: The group of three includes word: "sky".
 
-</details>
+
 
 ---
-#### Solution to word grouping game
+#### 
+
+
+
+<details>
+<summary>Solution to word grouping game</summary>
 
 ~~Think their colors~~
 
-
+</details>
