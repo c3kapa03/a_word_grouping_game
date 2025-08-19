@@ -58,8 +58,8 @@ Words:
 <details>
 <summary>Solution to word grouping game</summary>
 
-~~Think their colors~~
-
 🟡 🔴 🔵 ⚪ 🟢 
 
 </details>
+
+~~Think their colors~~
